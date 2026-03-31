@@ -6,15 +6,23 @@
             "description": "Description courte de la fonctionnalité.",
             "url": "https://github.com/numerique-gouv/sites-faciles/releases",
             "date": "2026-03-28",
-            "end_date": "2026-04-01"
+            "end_date": "2026-04-1"
         },
         {
             "type": "alert",
-            "title": "DEPUIS le repo",
-            "description": "Description courte de la fonctionnalité.",
+            "title": "",
+            "description": "",
             "url": "https://github.com/numerique-gouv/sites-faciles/releases",
             "date": "2026-03-28",
-            "end_date": "2026-03-30"
+            "end_date": "2026-04-30"
+        }, 
+        {
+            "type": "warning",
+            "title": "test sans description sans lien",
+            "description": "",
+            "url": "",
+            "date": "2026-03-28",
+            "end_date": "2026-04-30"
         }
     ]
 }
