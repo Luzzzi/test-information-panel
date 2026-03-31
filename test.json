@@ -10,10 +10,10 @@
         },
         {
             "type": "alert",
-            "title": "",
+            "title": "test sans date",
             "description": "",
             "url": "https://github.com/numerique-gouv/sites-faciles/releases",
-            "date": "2026-03-28",
+            "date": "",
             "end_date": "2026-04-30"
         }, 
         {
